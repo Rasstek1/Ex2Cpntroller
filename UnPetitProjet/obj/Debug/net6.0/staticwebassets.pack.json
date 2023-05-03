@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\nitra\\Source\\Repos\\Rasstek1\\Ex2Cpntroller\\UnPetitProjet\\wwwroot\\pdf\\chemnement.pdf",
+      "PackagePath": "staticwebassets\\pdf\\chemnement.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.UnPetitProjet.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.UnPetitProjet.props",
+      "PackagePath": "build\\UnPetitProjet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.UnPetitProjet.props",
+      "PackagePath": "buildMultiTargeting\\UnPetitProjet.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.UnPetitProjet.props",
+      "PackagePath": "buildTransitive\\UnPetitProjet.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

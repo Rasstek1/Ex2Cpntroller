@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OiTvHMNJFCh5kgPU5UHZ1vo1WdAwvtdRK4v+7tVz6CQ=",
+  "Hash": "g4//7HVCKoQi0Ht1Laqic5Cb7pxBzdYap9j/Bhg201U=",
   "Source": "UnPetitProjet",
   "BasePath": "_content/UnPetitProjet",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "UnPetitProjet\\wwwroot",
       "Source": "UnPetitProjet",
-      "ContentRoot": "C:\\Users\\oumar\\OneDrive\\Bureau\\ASP.NET\\UnPetitProjet\\UnPetitProjet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nitra\\Source\\Repos\\Rasstek1\\Ex2Cpntroller\\UnPetitProjet\\wwwroot\\",
       "BasePath": "_content/UnPetitProjet",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\oumar\\OneDrive\\Bureau\\ASP.NET\\UnPetitProjet\\UnPetitProjet\\wwwroot\\pdf\\chemnement.pdf",
+      "Identity": "C:\\Users\\nitra\\Source\\Repos\\Rasstek1\\Ex2Cpntroller\\UnPetitProjet\\wwwroot\\pdf\\chemnement.pdf",
       "SourceId": "UnPetitProjet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\oumar\\OneDrive\\Bureau\\ASP.NET\\UnPetitProjet\\UnPetitProjet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nitra\\Source\\Repos\\Rasstek1\\Ex2Cpntroller\\UnPetitProjet\\wwwroot\\",
       "BasePath": "_content/UnPetitProjet",
       "RelativePath": "pdf/chemnement.pdf",
       "AssetKind": "All",
