@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "OiTvHMNJFCh5kgPU5UHZ1vo1WdAwvtdRK4v+7tVz6CQ=",
+  "Source": "UnPetitProjet",
+  "BasePath": "_content/UnPetitProjet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "UnPetitProjet\\wwwroot",
+      "Source": "UnPetitProjet",
+      "ContentRoot": "C:\\Users\\oumar\\OneDrive\\Bureau\\ASP.NET\\UnPetitProjet\\UnPetitProjet\\wwwroot\\",
+      "BasePath": "_content/UnPetitProjet",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\oumar\\OneDrive\\Bureau\\ASP.NET\\UnPetitProjet\\UnPetitProjet\\wwwroot\\pdf\\chemnement.pdf",
+      "SourceId": "UnPetitProjet",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oumar\\OneDrive\\Bureau\\ASP.NET\\UnPetitProjet\\UnPetitProjet\\wwwroot\\",
+      "BasePath": "_content/UnPetitProjet",
+      "RelativePath": "pdf/chemnement.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pdf\\chemnement.pdf"
+    }
+  ]
+}
