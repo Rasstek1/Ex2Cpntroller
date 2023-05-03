@@ -9,25 +9,25 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = UnPetitProjet
 build_property.RootNamespace = UnPetitProjet
-build_property.ProjectDir = C:\Users\nitra\Source\Repos\Rasstek1\Ex2Cpntroller\UnPetitProjet\
+build_property.ProjectDir = C:\Users\nitra\Source\Repos\Ex2Cpntroller\UnPetitProjet\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\nitra\Source\Repos\Rasstek1\Ex2Cpntroller\UnPetitProjet
+build_property.MSBuildProjectDirectory = C:\Users\nitra\Source\Repos\Ex2Cpntroller\UnPetitProjet
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/nitra/Source/Repos/Rasstek1/Ex2Cpntroller/UnPetitProjet/Views/Exercice/MaVue.cshtml]
+[C:/Users/nitra/Source/Repos/Ex2Cpntroller/UnPetitProjet/Views/Exercice/MaVue.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpY2VcTWFWdWUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nitra/Source/Repos/Rasstek1/Ex2Cpntroller/UnPetitProjet/Views/Home/Index.cshtml]
+[C:/Users/nitra/Source/Repos/Ex2Cpntroller/UnPetitProjet/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nitra/Source/Repos/Rasstek1/Ex2Cpntroller/UnPetitProjet/Views/Shared/Erreur.cshtml]
+[C:/Users/nitra/Source/Repos/Ex2Cpntroller/UnPetitProjet/Views/Shared/Erreur.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycmV1ci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nitra/Source/Repos/Rasstek1/Ex2Cpntroller/UnPetitProjet/Views/Welcome/Welcome.cshtml]
+[C:/Users/nitra/Source/Repos/Ex2Cpntroller/UnPetitProjet/Views/Welcome/Welcome.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2VsY29tZVxXZWxjb21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

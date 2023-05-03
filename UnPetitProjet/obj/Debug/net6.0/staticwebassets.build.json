@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "g4//7HVCKoQi0Ht1Laqic5Cb7pxBzdYap9j/Bhg201U=",
+  "Hash": "kswTmddMl2tk8ci/RyrQEqBcy4lWTv0RND9P/svNkzM=",
   "Source": "UnPetitProjet",
   "BasePath": "_content/UnPetitProjet",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "UnPetitProjet\\wwwroot",
       "Source": "UnPetitProjet",
-      "ContentRoot": "C:\\Users\\nitra\\Source\\Repos\\Rasstek1\\Ex2Cpntroller\\UnPetitProjet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nitra\\Source\\Repos\\Ex2Cpntroller\\UnPetitProjet\\wwwroot\\",
       "BasePath": "_content/UnPetitProjet",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\nitra\\Source\\Repos\\Rasstek1\\Ex2Cpntroller\\UnPetitProjet\\wwwroot\\pdf\\chemnement.pdf",
+      "Identity": "C:\\Users\\nitra\\Source\\Repos\\Ex2Cpntroller\\UnPetitProjet\\wwwroot\\pdf\\chemnement.pdf",
       "SourceId": "UnPetitProjet",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\nitra\\Source\\Repos\\Rasstek1\\Ex2Cpntroller\\UnPetitProjet\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\nitra\\Source\\Repos\\Ex2Cpntroller\\UnPetitProjet\\wwwroot\\",
       "BasePath": "_content/UnPetitProjet",
       "RelativePath": "pdf/chemnement.pdf",
       "AssetKind": "All",

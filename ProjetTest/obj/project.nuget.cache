@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LXZ3s5ATdSBFVuEUYv+FgSI9Dyn/p2TdMHt7a+jDhcoSxxhsT5X00UDHg9DQZzHwMFw+km8nAyss2+IvprGvzQ==",
+  "dgSpecHash": "08aZdGROeZMRZ/0OKLlLAiLkFNKofMlF+6oJvwjhdQwuDxYCEr3vAYKCzXkOnkVLPXM479nGL9xwCO2a9CdGpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nitra\\Source\\Repos\\Rasstek1\\Ex2Cpntroller\\ProjetTest\\ControllerTest.csproj",
+  "projectFilePath": "C:\\Users\\nitra\\Source\\Repos\\Ex2Cpntroller\\ProjetTest\\ControllerTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nitra\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\nitra\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",

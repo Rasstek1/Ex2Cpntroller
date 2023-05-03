@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.ViewEngines;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -45,6 +46,21 @@ namespace ControllerTest
             Assert.Equal(expectedContent, contentResult.Content);
             Assert.Equal(expectedContentType, contentResult.ContentType);
             Assert.Equal(expectedStatusCode, contentResult.StatusCode);
+        }
+
+        [Fact]
+
+        public void TestIndex2()
+        {
+            // Arrange : préparer le test en instanciant le contrôleur
+            var exerciseController = new ExerciceController();
+
+            // Act : appeler la méthode d'action Index2 du contrôleur
+            var result = exerciseController.Index2() as ViewResult;
+
+            // Assert : vérifier que la vue renvoyée a le bon nom
+            Assert.NotNull(result);
+            Assert.Equal("MaVue", result.ViewName);
         }
 
     }
