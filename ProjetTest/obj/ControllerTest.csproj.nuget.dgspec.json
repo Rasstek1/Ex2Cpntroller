@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nitra\\Source\\Repos\\Ex2Cpntroller\\ProjetTest\\ControllerTest.csproj": {}
+    "C:\\Users\\nitra\\source\\repos\\Rasstek1\\Ex2Cpntroller\\ProjetTest\\ControllerTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nitra\\Source\\Repos\\Ex2Cpntroller\\ProjetTest\\ControllerTest.csproj": {
+    "C:\\Users\\nitra\\source\\repos\\Rasstek1\\Ex2Cpntroller\\ProjetTest\\ControllerTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nitra\\Source\\Repos\\Ex2Cpntroller\\ProjetTest\\ControllerTest.csproj",
+        "projectUniqueName": "C:\\Users\\nitra\\source\\repos\\Rasstek1\\Ex2Cpntroller\\ProjetTest\\ControllerTest.csproj",
         "projectName": "ControllerTest",
-        "projectPath": "C:\\Users\\nitra\\Source\\Repos\\Ex2Cpntroller\\ProjetTest\\ControllerTest.csproj",
+        "projectPath": "C:\\Users\\nitra\\source\\repos\\Rasstek1\\Ex2Cpntroller\\ProjetTest\\ControllerTest.csproj",
         "packagesPath": "C:\\Users\\nitra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nitra\\Source\\Repos\\Ex2Cpntroller\\ProjetTest\\obj\\",
+        "outputPath": "C:\\Users\\nitra\\Source\\Repos\\Rasstek1\\Ex2Cpntroller\\ProjetTest\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\nitra\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\nitra\\Source\\Repos\\Ex2Cpntroller\\UnPetitProjet\\UnPetitProjet.csproj": {
-                "projectPath": "C:\\Users\\nitra\\Source\\Repos\\Ex2Cpntroller\\UnPetitProjet\\UnPetitProjet.csproj"
+              "C:\\Users\\nitra\\source\\repos\\Rasstek1\\Ex2Cpntroller\\UnPetitProjet\\UnPetitProjet.csproj": {
+                "projectPath": "C:\\Users\\nitra\\source\\repos\\Rasstek1\\Ex2Cpntroller\\UnPetitProjet\\UnPetitProjet.csproj"
               }
             }
           }
@@ -86,25 +81,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\nitra\\Source\\Repos\\Ex2Cpntroller\\UnPetitProjet\\UnPetitProjet.csproj": {
+    "C:\\Users\\nitra\\source\\repos\\Rasstek1\\Ex2Cpntroller\\UnPetitProjet\\UnPetitProjet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nitra\\Source\\Repos\\Ex2Cpntroller\\UnPetitProjet\\UnPetitProjet.csproj",
+        "projectUniqueName": "C:\\Users\\nitra\\source\\repos\\Rasstek1\\Ex2Cpntroller\\UnPetitProjet\\UnPetitProjet.csproj",
         "projectName": "UnPetitProjet",
-        "projectPath": "C:\\Users\\nitra\\Source\\Repos\\Ex2Cpntroller\\UnPetitProjet\\UnPetitProjet.csproj",
+        "projectPath": "C:\\Users\\nitra\\source\\repos\\Rasstek1\\Ex2Cpntroller\\UnPetitProjet\\UnPetitProjet.csproj",
         "packagesPath": "C:\\Users\\nitra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nitra\\Source\\Repos\\Ex2Cpntroller\\UnPetitProjet\\obj\\",
+        "outputPath": "C:\\Users\\nitra\\Source\\Repos\\Rasstek1\\Ex2Cpntroller\\UnPetitProjet\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\nitra\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -112,7 +103,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -149,7 +139,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
